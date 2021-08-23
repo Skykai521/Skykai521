@@ -1,7 +1,7 @@
 ## 👋 欢迎关注微信公众号：SkyKai 
 
 
-
+![SkyKai](https://github-readme-stats.vercel.app/api?username=SkyKai521&theme=vue-dark&show_icons=true)
 
 <!--
 **Skykai521/Skykai521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
